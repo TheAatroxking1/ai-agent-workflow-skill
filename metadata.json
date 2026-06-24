@@ -1,0 +1,35 @@
+{
+  "slug": "ai-agent-workflow-skill",
+  "title": "AI Agent Workflow Skill",
+  "summary": "帮助用户围绕“AI agent workflow skill opportunities”构建可复用 AI skill 工作流，并基于最新资料给出步骤、边界和验证清单。",
+  "tags": [
+    "codex-skill",
+    "ai-workflow",
+    "ai-agents",
+    "ai",
+    "agent"
+  ],
+  "sources": [
+    {
+      "title": "frostaura/ai.toolkit.gaia",
+      "url": "https://github.com/frostaura/ai.toolkit.gaia",
+      "credibility": 0.7
+    },
+    {
+      "title": "Arcanada-one/datarim",
+      "url": "https://github.com/Arcanada-one/datarim",
+      "credibility": 0.7
+    },
+    {
+      "title": "aaronjmars/aeon-agent",
+      "url": "https://github.com/aaronjmars/aeon-agent",
+      "credibility": 0.7
+    },
+    {
+      "title": "BintzGavin/helios",
+      "url": "https://github.com/BintzGavin/helios",
+      "credibility": 0.7
+    }
+  ],
+  "score": 91.0
+}
